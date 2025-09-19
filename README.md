@@ -13,7 +13,6 @@ Xumeli is a custom-built operating system with its own bootloader written in Ass
 - NASM (Netwide Assembler)
 - GCC (GNU Compiler Collection)
 - GNU Make
-- QEMU (for testing)
 - genisoimage (for creating ISO images)
 
 ### Install Dependencies
