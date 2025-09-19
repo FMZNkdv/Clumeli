@@ -19,22 +19,26 @@ Xumeli is a custom-built operating system with its own bootloader written in Ass
 
 **Ubuntu/Debian:**
 ```bash
-sudo apt install nasm gcc make qemu-system-x86 genisoimage
+sudo apt install nasm gcc make genisoimage
 ```
 
 **Arch Linux:**
 ```bash
-sudo pacman -S nasm gcc make qemu-system-x86 cdrkit
+sudo pacman -S nasm gcc make cdrkit
 ```
 
 ## Building the System
 
 1. Clone or download the project files
-2. Make the build script executable:
+   ```bash
+   git clone https://github.com/FMZNKdv/Xumeli
+   cd Xumeli
+   ```
+3. Make the build script executable:
    ```bash
    chmod +x build.sh
    ```
-3. Run the build script:
+4. Run the build script:
    ```bash
    ./build.sh
    ```
