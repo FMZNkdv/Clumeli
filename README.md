@@ -47,8 +47,6 @@ The build process will:
 - Create an ISO image (myos.iso)
 - Place all final images in the `images/` directory
 
-## Running the System
-
 ## Disclaimer
 
 This is an educational project and not intended for production use. Use at your own risk.
