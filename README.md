@@ -1,4 +1,4 @@
-Xumeli is a custom-built operating system with its own bootloader written in Assembly and kernel written in C. It features a minimalistic design with custom commands and a simple shell interface.
+Clumeli is a custom-built operating system with its own bootloader written in Assembly and kernel written in C. It features a minimalistic design with custom commands and a simple shell interface.
 
 ## Features
 
@@ -31,8 +31,8 @@ sudo pacman -S nasm gcc make cdrkit
 
 1. Clone or download the project files
    ```bash
-   git clone https://github.com/FMZNKdv/Xumeli
-   cd Xumeli
+   git clone https://github.com/FMZNKdv/Clumeli
+   cd Clumeli
    ```
 3. Make the build script executable:
    ```bash
